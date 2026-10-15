@@ -61,7 +61,7 @@ O programa funciona no terminal, permitindo que o usuário insira um valor de te
 3. **Compile o arquivo Java:**
 
    ```
-   javac Main_2.java
+   javac Conversor-de-Temperatura
    
    ```
 
