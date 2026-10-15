@@ -47,14 +47,14 @@ O programa funciona no terminal, permitindo que o usuário insira um valor de te
 1. **Clone o repositório:**
 
    ```
-   git clone https://github.com/evellyncsl/ConversorTemperatura
+   git clone https://github.com/evellyncsl/Conversor-de-Temperatura
    
    ```
 
 2. **Navegue até o diretório do projeto:**
 
    ```
-   cd seu-repositorio
+   cd Conversor-de-Temperatura
    
    ```
 
@@ -68,7 +68,7 @@ O programa funciona no terminal, permitindo que o usuário insira um valor de te
 4. **Execute o programa:**
 
    ```
-   java ConversorTemperatura
+   java Conversor-de-Temperatura
    
    ```
 
